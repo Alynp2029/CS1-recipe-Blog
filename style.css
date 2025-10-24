@@ -1,1 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Imperial+Script&family=Shadows+Into+Light&family=Sigmar+One&family=Updock&display=swap');
 
+
+
+body {
+   
+    background: rgb(216, 231, 236);
+   h1{
+    font-family: "Imperial Script", cursive;
+    font-size: 70px;
+    text-align:center
+    
+
+    
+   }
+    
