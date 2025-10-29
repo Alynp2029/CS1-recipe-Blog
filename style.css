@@ -5,12 +5,51 @@
 body {
    
     background: rgb(216, 231, 236);
+}
+
+
+
    h1{
     font-family: "Imperial Script", cursive;
     font-size: 70px;
     text-align:center
     
+   
+   }
+ul{
+  color: darkblue;
+    font-weight:300;
+    font-style:italic;
+    font-size:34px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+   
+
+
+}
+a{
+color: darkblue;
+    font-weight:300;
+    font-style:italic;
+    font-size:34px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+ol{
+    color: teal;
+    font-weight:300px;
+    font-style:italic;
+    font-size:20px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+    
+h2{
+
+    color: ;
+    font-weight:300;
+    font-style:italic;
+    font-size:34px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
 
     
-   }
+ 
     
