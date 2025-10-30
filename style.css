@@ -11,10 +11,13 @@ body {
 
    h1{
     font-family: "Imperial Script", cursive;
-    font-size: 70px;
-    text-align:center
-    
-   
+    font-size: 90px;
+    text-align:center;
+     background-color: beige;
+     border: 20px dotted  rgb(10, 63, 14);
+    border-radius: 20px;
+    padding: 10px;
+    margin: 20px;
    }
 ul{
   color: darkblue;
@@ -49,7 +52,23 @@ h2{
     font-size:34px;
     font-family:Georgia, 'Times New Roman', Times, serif
 }
+img{
+     height: 255px;
+    border-width: 14px;
+    border-style: solid;
+    border-color: rgb(10, 63, 14);
+    box-shadow: black 0 0 10px;
+}
+li{
+    padding: 25px;
+    margin: 10px
+}
+a{
+    background-color:rgb(216, 231, 236);
+    border : 2px solid black;
 
+    
+}
     
  
     
